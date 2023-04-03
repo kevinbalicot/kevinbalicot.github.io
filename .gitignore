@@ -13,7 +13,7 @@
 ###> docker environment ##
 /docker-compose*
 /docker-dev.lock
-.dockerignore
+/.dockerignore
 ###< docker environment ###
 
 ###> prod environment ##
