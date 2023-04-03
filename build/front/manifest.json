@@ -1,0 +1,20 @@
+{
+  "build/front/app.css": "/build/front/app.css",
+  "build/front/app.js": "/build/front/app.js",
+  "build/front/runtime.js": "/build/front/runtime.js",
+  "build/front/images/kevin.png": "/build/front/images/kevin.png",
+  "build/front/images/chat.png": "/build/front/images/chat.png",
+  "build/front/images/balise-html.png": "/build/front/images/balise-html.png",
+  "build/front/images/favicon.ico": "/build/front/images/favicon.ico",
+  "build/front/images/js-mobile.svg": "/build/front/images/js-mobile.svg",
+  "build/front/images/php-mobile.svg": "/build/front/images/php-mobile.svg",
+  "build/front/images/docker.svg": "/build/front/images/docker.svg",
+  "build/front/images/sylius.svg": "/build/front/images/sylius.svg",
+  "build/front/images/symfony.svg": "/build/front/images/symfony.svg",
+  "build/front/images/beer-mobile.svg": "/build/front/images/beer-mobile.svg",
+  "build/front/images/js.svg": "/build/front/images/js.svg",
+  "build/front/images/php.svg": "/build/front/images/php.svg",
+  "build/front/images/beer.svg": "/build/front/images/beer.svg",
+  "build/front/images/point.svg": "/build/front/images/point.svg",
+  "build/front/images/triangle.svg": "/build/front/images/triangle.svg"
+}

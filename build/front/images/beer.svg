@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311 211" width="311" height="211">
+	<title>shape-006@1x-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #2a2a2a;stroke-width: 3 }
+		.s1 { fill: #000000 }
+	</style>
+	<path id="Layer" class="s0" d="m10 114.9c0-57.4 46.5-103.9 103.9-103.9h81.4c57.4 0 103.9 46.5 103.9 103.9-4.9 54.5-18.8 69.6-30.4 73.5-17.8 6.1-29.2-14.7-60.9-15.6-29.4-0.8-34.4 16.7-72.3 26.2-15 3.8-62.3 15.6-95.1-10.6-29.1-23.1-30.4-63.1-30.5-73.5z"/>
+	<text x="85" y="120" font-size="45" font-family="sans-serif" font-weight="bold">BIÈRE</text>
+</svg>
